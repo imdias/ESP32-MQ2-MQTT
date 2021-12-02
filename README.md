@@ -19,7 +19,7 @@ Utilizando componentes como ESP32, MQ-2 e módulo Arduino.
    - WiFiClientSecure.h
 
 Especificação do hardware:
-\
+
  |	Chip base	| ESP32-D0WDQ6 |	
  |	----------- | -------------- |	
  |	Processador |	Xtensa 32-Bit LX6 Dual Core |	
@@ -47,8 +47,8 @@ Especificação do hardware:
  |	Compatibilidade |	IDE do Arduino |	
  |	Dimensões |	27,5 mm x 51 mm x 7 mm |	
  |	Datasheet |	https://storage.googleapis.com/baudaeletronicadatasheet/ESP32.pdf![image](https://user-images.githubusercontent.com/56363119/144471891-c1911253-ba91-4934-bd3d-19e679cb453d.png) |	
-\
-\
+
+
  |	Sensor |	Modelo	MQ-2 |	
  |	----------- | -------------- |	
  |	Detecção de gases inflamáveis |	GLP, Metano, Propano, Butano, Hidrogênio, Álcool, Gás Natural e outros inflamáveis |	
@@ -59,4 +59,5 @@ Especificação do hardware:
  |	Dimensões |	32 x 20 x 15 mm |	
  |	Datasheet |	https://storage.googleapis.com/baudaeletronicadatasheet/MQ-2.pdf |	
 
-
+### MQTT
+<p>O MQTT (Message Queue Telemetry Transport) é um protocolo de comunicação muito utilizado em IoT (Internet of Things ou Internet das Coisas) pois é um método relativamente simples de usar e que não exige muito poder de processamento ou grandes recursos de banda de rede. </p>
