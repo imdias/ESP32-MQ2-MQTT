@@ -49,12 +49,13 @@ Especificação do hardware:
  |	Datasheet |	https://storage.googleapis.com/baudaeletronicadatasheet/ESP32.pdf![image](https://user-images.githubusercontent.com/56363119/144471891-c1911253-ba91-4934-bd3d-19e679cb453d.png) |	
 
  |	Sensor |	Modelo	MQ-2 |	
+ |	----------- | -------------- |	
  |	Detecção de gases inflamáveis |	GLP, Metano, Propano, Butano, Hidrogênio, Álcool, Gás Natural e outros inflamáveis |	
  |	Concentração de detecção |	300-10.000ppm |	
  |	Tensão de operação |	5V |	
  |	Sensibilidade |	Ajustável |	
  |	Saídas |	Digital e Analógica |	
  |	Dimensões |	32 x 20 x 15 mm |	
- |	Datasheet |	https://storage.googleapis.com/baudaeletronicadatasheet/MQ-2.pdf![Uploading image.png…]() |	
+ |	Datasheet |	https://storage.googleapis.com/baudaeletronicadatasheet/MQ-2.pdf![Uploading image.png…] |	
 
 
