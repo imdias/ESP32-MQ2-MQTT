@@ -1,7 +1,12 @@
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+</h1>
+
 # Safe Home - ESP32-MQ2-MQTT
 Repositório criado para entrega do projeto da Universidade Presbiteriana Mackenzie - Objetos Inteligentes Conectados.
 
-Esse projeto visa utilizar utilizar 
+Esse projeto visa utilizar ser simples e prático, de modo a qualquer pessoal que queira implementar em sua casa ou mesmo para uma entrega universitária.
+Utilizando componentes como ESP32, MQ-2 e módulo Arduino.
 
 ### Dispositivos usados no projeto:
 
