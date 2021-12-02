@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+    🔗 Safe Home - ESP32-MQ2-MQTT
 </h1>
 
 # Safe Home - ESP32-MQ2-MQTT
