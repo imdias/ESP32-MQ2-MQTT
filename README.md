@@ -1,8 +1,5 @@
-<h1 align="center">
-    🔗 Safe Home - ESP32-MQ2-MQTT
-</h1>
+<h1 align="center"> Safe Home - ESP32-MQ2-MQTT </h1>
 
-# Safe Home - ESP32-MQ2-MQTT
 Repositório criado para entrega do projeto da Universidade Presbiteriana Mackenzie - Objetos Inteligentes Conectados.
 
 Esse projeto visa utilizar ser simples e prático, de modo a qualquer pessoal que queira implementar em sua casa ou mesmo para uma entrega universitária.
